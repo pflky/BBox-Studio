@@ -1,1 +1,2 @@
-![](https://github.com/pflky/BBox-Studio/new/main/assets/screenshot.png?raw=true)
+
+![](https://github.com/pflky/BBox-Studio/screenshot.png?raw=true)
