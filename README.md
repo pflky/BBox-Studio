@@ -24,7 +24,7 @@ What's new in this version?
 
 • Added Undo / Redo options
 
-• All Undo / Redo states are saved in project files (you can quite literally save the undo's all the way back to the start even)
+• All Undo / Redo states are stored in memory and saved in project files (you can even save the undo's all the way back to the start even, which are also stored in project files)
 
 • Added ability to increase size of right panel text fields by dragging the bar under the fields
 
