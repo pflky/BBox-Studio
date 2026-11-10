@@ -1,6 +1,3 @@
-
-A feature-rich, intuitive, standalone bounding box prompt generator for MOSS Image.
-
 <img width="1322" height="892" alt="image" src="https://github.com/user-attachments/assets/8c5c4dd7-4df4-45e1-b3d8-edc97750d3de" />
 
 
