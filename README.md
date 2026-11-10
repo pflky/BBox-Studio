@@ -234,7 +234,7 @@ python bbox_studio.py
 
 The application will launch directly.
 
-Alternative way of running: just double click the .py file ya filthy animal! 
+...Or just double click the .py file ya filthy animal! 
 
 ---
 
