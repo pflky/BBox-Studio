@@ -34,6 +34,6 @@ What's new in this version?
 
 • Added Lock options to bounding box behavior (position / size / aspect ratio locks, but will still be resized when colliding against the boundaries of the canvas)
 
-• Added menu options when right clicking the canvas, including changing the background of the canvas to an image, changing the grid style, scaling options, and a recentering option for the canvas.
+• Added menu options when right clicking the canvas, including changing the background of the canvas to an image, changing the grid style, scaling options, and a recentering option for the canvas. Adding a background image feature is still an experimental work in progress and while it works, it has a performance hit when zooming in and out of the canvas. 
 
 
