@@ -20,7 +20,7 @@ What's new in this version?
 
 
 
-• Added ability to save as a .bbox project file that recovers app states
+• Added ability to save as a .bbox project file that recovers app states (it stores the custom color of your bounding boxes and stuff like that)
 
 • Added Undo / Redo options
 
