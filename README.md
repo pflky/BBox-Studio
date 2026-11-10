@@ -28,7 +28,7 @@ What's new in this version?
 
 • Added ability to increase size of right panel text fields by dragging the bar under the fields
 
-• Simplified the editable Width / Height values (resolution in the dropdown preset resolutions are still editable directly too)
+• Simplified the editable Width / Height values (dropdown preset resolutions are still editable directly too)
 
 • Rearranged and polished various UI elements
 
