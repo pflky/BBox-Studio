@@ -1,40 +1,73 @@
 
-A feature-rich intuitive standalone bounding box prompt generator for MOSS Image
+A feature-rich, intuitive, standalone bounding box prompt generator for MOSS Image.
+
+<img width="1322" height="892" alt="image" src="https://github.com/user-attachments/assets/8c5c4dd7-4df4-45e1-b3d8-edc97750d3de" />
 
 
-<img width="1322" height="892" alt="image" src="https://github.com/user-attachments/assets/9cd73165-3bf1-4c09-ab6c-44b977a2857e" />
+One-click launch – Simply run the application.
 
+Zero dependencies – Requires only Python. No additional packages or installations needed.
 
+What's New in This Version?
 
+💾 Project Files & State Recovery
 
+Added the ability to save projects as .bbox files.
 
+Project files preserve application states, including custom bounding box colors and other settings.
 
-• One click run
+Undo / Redo history is also saved directly into project files.
 
-• Zero dependencies (other than having Python installed)
+Full undo history preservation: You can save your entire undo history, all the way back to the very beginning of a project, and restore it when reopening the file.
 
+↩️ Undo & Redo
 
+Added Undo and Redo functionality.
 
+All undo and redo states are stored in memory.
 
-What's new in this version?
+Undo history persists between sessions when saved in a .bbox project file.
 
+📝 Improved Text Fields
 
+Added the ability to vertically resize right-panel text fields by dragging the resize bar beneath them.
 
+📐 Resolution & Dimensions
 
-• Added ability to save as a .bbox project file that recovers app states (it stores the custom color of your bounding boxes and stuff like that)
+Simplified the editable Width / Height controls.
 
-• Added Undo / Redo options
+Preset resolution dropdowns remain directly editable, allowing you to enter custom dimensions.
 
-• All Undo / Redo states are stored in memory and saved in project files (you can even save the undo's all the way back to the start even, which are also stored in project files)
+🎨 UI Improvements
 
-• Added ability to increase size of right panel text fields by dragging the bar under the fields
+Rearranged and polished various UI elements.
 
-• Simplified the editable Width / Height values (dropdown preset resolutions are still editable directly too)
+Improved overall layout and usability.
 
-• Rearranged and polished various UI elements
+🔒 Bounding Box Locks
 
-• Added Lock options to bounding box behavior (position / size / aspect ratio locks, but will still be resized when colliding against the boundaries of the canvas)
+Added new bounding box behavior locks:
 
-• Added menu options when right clicking the canvas, including changing the background of the canvas to an image, changing the grid style, scaling options, and a recentering option for the canvas. Adding a background image feature is still an experimental work in progress and while it works, it has a performance hit when zooming in and out of the canvas. 
+Position Lock – Prevents a bounding box from being moved.
 
+Size Lock – Prevents resizing.
 
+Aspect Ratio Lock – Maintains the bounding box's aspect ratio when resizing.
+
+Note: Bounding boxes will still automatically adjust when colliding with the canvas boundaries, regardless of lock settings.
+
+🖱️ Canvas Right-Click Menu
+
+Added several new options accessible by right-clicking the canvas:
+
+Change the canvas background, including using an image.
+
+Switch between different grid styles.
+
+Adjust canvas scaling options.
+
+Recenter the canvas.
+
+Experimental Feature – Custom Background Images
+
+The ability to use an image as the canvas background is still a work in progress. While functional, it currently introduces a performance hit when zooming in and out of the canvas. This may be optimized in future updates.
