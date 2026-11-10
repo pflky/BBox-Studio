@@ -266,6 +266,6 @@ The goal is to provide a lightweight, self-contained annotation tool that is eas
 
 BBox Studio
 
-Coded with Grok by plk.
+Coded with Grok.
 
 © 2026 — All rights reserved.
