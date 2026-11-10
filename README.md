@@ -5,13 +5,17 @@ A feature-rich intuitive standalone bounding box prompt generator for MOSS Image
 
 
 
+
+
 • One click run
 
 • Zero dependencies (other than having Python installed)
 
 
 
+
 What's new in this version?
+
 
 
 
