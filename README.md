@@ -78,6 +78,7 @@ Additional object management tools:
 - **Zoom Controls:** Zoom in and out using the mouse wheel or keyboard shortcuts.
 - **Zoom Presets:** Quickly switch between 50%, 100%, and 200% magnification.
 - **Canvas Panning:** Navigate the workspace using middle-mouse dragging.
+- **Snap to Grid:** A toggle that enables or disables snapping to current grid configuration.
 - **Recenter Canvas:** Restore the canvas to a centered, fitted view.
 
 ### 📐 Canvas Guides & Grid Options
