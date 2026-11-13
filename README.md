@@ -79,7 +79,7 @@ Additional object management tools:
 - **Zoom Presets:** Quickly switch between 50%, 100%, and 200% magnification.
 - **Canvas Panning:** Navigate the workspace using middle-mouse dragging.
 - **Snap to Grid:** A toggle that enables or disables snapping to current grid configuration.
-- **Take Screenshot:** Take a screenshot of the current canvas at current resolution + Stores JSON metdata in the PNG file.
+- **Take Screenshot:** Take a screenshot of the current canvas at current resolution + Stores JSON metadata in the PNG file.
 - **Recenter Canvas:** Restore the canvas to a centered, fitted view.
 
 ### 📐 Canvas Guides & Grid Options
