@@ -191,6 +191,7 @@ Supported import capabilities include:
 | `Escape` | Exit inline editing / deselect |
 | `+` / `=` | Zoom in |
 | `-` | Zoom out |
+| `← or →` | Cycle bounding box selection |
 | Mouse Wheel | Zoom toward cursor |
 | Middle Mouse Drag | Pan canvas |
 | Double-Click Box | Edit box caption |
