@@ -83,6 +83,7 @@ Additional object management tools:
 - **Snap to Grid:** A toggle that enables or disables snapping to current grid configuration.
 - **Take Screenshot:** Take a screenshot of the current canvas at current resolution + Stores JSON metadata in the PNG file.
 - **Recenter Canvas:** Restore the canvas to a centered, fitted view.
+- **Font Customization:** Customize readability of the UI to your preferences. 
 
 ### 📐 Canvas Guides & Grid Options
 
