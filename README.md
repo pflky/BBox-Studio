@@ -80,7 +80,14 @@ Additional object management tools:
 - **Snap to Grid:** A toggle that enables or disables snapping to current grid configuration.
 - **Take Screenshot:** Take a screenshot of the current canvas at current resolution + Stores JSON metadata in the PNG file.
 - **Recenter Canvas:** Restore the canvas to a centered, fitted view.
-- **Font Customization:** Customize readability of the UI to your preferences. 
+
+  ### ⚙️ Additional Settings & Features
+  
+- **Font Customization:** Customize readability of the UI to your preferences.
+- **Color Customization:** Customize colors of primary UI elements to your preferences. 
+- **Persistent Config:** On launch, creates a bbox.cfg file that tracks and contains a record of primary application states (last used resolution, canvas size, etc) and is able to restore them when running the program again. The config file also contains editable flags for disabling any config setting and falls back to program defaults when the flag is disabled.
+- **Custom Meta tags:** On launch, created a plain-text editable meta.txt file of your meta tags for easy customization of meta tags, while also allowing easy add/removal of meta tags within the program itself. The program also keeps track of any meta.txt file changes so that any notepad edits are automatically applied.
+- **Batch Conversions:** Allows the user to select an existing folder of .JSON files and batch converts them into JSON embedded .PNG files with a visual representation of the JSON data (like the "Take Screenshot feature). A secondary conversion option performs the function in reverse, by reading a folder of embedded JSON data from .PNG files and batch converts them into .JSON files. Converted files will be processed and saved in the same folder with the same file name as the original. 
 
 ### 📐 Canvas Guides & Grid Options
 
