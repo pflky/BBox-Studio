@@ -82,7 +82,7 @@ Additional object management tools:
 - **Take Screenshot:** Take a screenshot of the current canvas at current resolution + Stores JSON metadata in the PNG file.
 - **Recenter Canvas:** Restore the canvas to a centered, fitted view.
 
-  ### ⚙️ Additional Settings & Features
+### ⚙️ Additional Settings & Features
   
 - **Font Customization:** Customize readability of the UI to your preferences.
 - **Color Customization:** Customize colors of primary UI elements to your preferences. 
