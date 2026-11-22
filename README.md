@@ -192,6 +192,7 @@ Supported import capabilities include:
 | `Ctrl + S` | Save project |
 | `Ctrl + O` | Load project |
 | `Ctrl + R` | Reset workspace |
+| `Alt + Drag` | Mirror resize box |
 | `Delete` | Delete selected bounding box |
 | `Escape` | Exit inline editing / deselect |
 | `+` / `=` | Zoom in |
