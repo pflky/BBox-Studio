@@ -202,6 +202,7 @@ Supported import capabilities include:
 | Middle Mouse Drag | Pan canvas |
 | Double-Click Box | Edit box caption |
 | Right-Click Canvas | Open canvas options |
+| Right-Click Text/Object/Character | Box creation presets menu |
 
 ### 🛠️ Additional Quality-of-Life Features
 
